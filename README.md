@@ -4,7 +4,7 @@
 
 # 👋 Hey there, I'm HannibalKing
 
-I'm a former Army technician with 14 years of service, including combat missions and command & control operations with Special Forces and Rangers. I’ve rebuilt helicopters from the ground up—avionics, electrical systems, and mission-critical communications. I’ve flown in enemy territory, coordinated UAV video feeds across multiple assets, and overseen infantry and artillery divisions. Precision and discipline aren’t just buzzwords—they’re how I operate.
+I'm a former Army technician with 14 years of service, including combat missions and command & control operations alongside Special Forces and Rangers. I’ve rebuilt helicopters from the ground up—avionics, electrical systems, and mission-critical communications. I’ve flown in enemy territory, coordinated UAV video feeds across multiple assets, and overseen infantry and artillery divisions. Precision and discipline aren’t just buzzwords—they’re how I operate.
 
 After transitioning out of the military, I dove headfirst into tech. I started with Lua scripting for embedded systems, built LAMP stack apps, and now specialize in full-stack development using the MERN stack (MongoDB, Express, React, Node.js). I’ve built media servers, Dockerized environments, and high-performance water-cooled machines from scratch. I’ve coded with Arduino for 3D printers, developed Android apps in Java and Rust, and integrated AI into my workflows to push my coding further.
 
@@ -26,13 +26,6 @@ I’ve tracked supercars like the Ferrari F8 Tributo and KTM X-Bow, fed hungry c
 - 📱 **Mobile**: Android Development (Java, Rust)  
 - 🧠 **AI Integration**: Using AI to enhance development workflows  
 - 🎓 **Business**: Cornell Business Essentials – Strategy, Finance, Leadership
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HannibalKing&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HannibalKing&layout=compact&theme=dark)
 
 ---
 
