@@ -25,7 +25,8 @@ Ex-Army technologist building reliable applications and systems. My work spans f
 ## More work
 
 - [Robotics DMX](https://github.com/HannnibalKing/robotics-dmx) — embedded and robotics experiments.
-- [MagicMirror](https://github.com/HannnibalKing/mymagicmirror) — a self-hosted display project.
+- [RAG Service](https://github.com/HannnibalKing/rag-service) — Go RAG chatbot with vector DB and LLM support.
+- [WebRTC Messaging](https://github.com/HannnibalKing/webrtc-messaging) — low-latency peer-to-peer audio/video.
 - [Flixion homelab](https://github.com/HannnibalKing/flixion) — container and home-lab infrastructure.
 - [DDS-TS](https://github.com/HannnibalKing/dds-ts-simulation-engine) — deterministic simulation, replay, and rollback.
 - [ASC-TS](https://github.com/HannnibalKing/asc-ts-constraint-solver) — constraints, explainable decisions, and testable logic.
